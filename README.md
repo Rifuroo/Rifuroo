@@ -1,50 +1,47 @@
-# Hi, I'm Rifuroo 👋
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Mobile+Developer;Full-stack+Explorer;Flutter+%26+Laravel+Enthusiast" alt="Typing SVG" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00000000&height=120&section=header&text=Rifuroo&fontSize=90&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
 </p>
 
-### About Me
-I'm a development enthusiast focused on building high-performance mobile and web applications. My goal is to create seamless user experiences with clean, maintainable code.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Anime/aesthetic-anime.gif" width="600" />
+</p>
 
-- 📱 **Mobile**: Specialist in **Flutter & Dart**.
-- 🌐 **Web**: Experienced with **PHP & Laravel**.
-- 💡 **Passion**: Software architecture, performance optimization, and clean UI/UX.
-
----
-
-### Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,php,laravel,mysql,git,vscode,androidstudio" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Mobile+Developer;Full-stack+Explorer;Zen+Coder" alt="Typing SVG" />
 </p>
 
 ---
 
-### Featured Repositories
+### 🌸 About Me
+Focused on crafting high-quality experiences with **Flutter** and **Laravel**. I value simplicity, performance, and clean aesthetics.
 
-- **[sakinime](https://github.com/Rifuroo/sakinime)** | A high-performance anime streaming application built with Flutter/Dart.
-- **[chattr](https://github.com/Rifuroo/chattr)** | Modern, real-time chat interface focusing on fluid UX.
-- **[lelang_laravel](https://github.com/Rifuroo/lelang_laravel)** | Comprehensive auction system using Laravel framework.
+- 📱 **Mobile**: Flutter & Dart specialist.
+- 🌐 **Web**: PHP & Laravel enthusiast.
+- ⛩️ **Philosophy**: Less is more.
 
 ---
 
-### GitHub Insights
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rifuroo&theme=tokyonight" alt="Rifuroo's Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rifuroo&theme=tokyonight" alt="Top Langs" />
+### 🏮 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,php,laravel,mysql,git,vscode,studio" />
 </p>
 
 ---
 
-### Let's Connect
-- **GitHub**: [Rifuroo](https://github.com/Rifuroo)
-- **Work with me**: *Open for collaborations in Mobile & Web Development.*
+### 📜 Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rifuroo&theme=tokyonight" width="45%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rifuroo&theme=tokyonight" width="45%" alt="Top Langs" />
+</p>
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2196F3&height=2&section=footer" />
+---
+
+<p align="center">
+  <a href="https://github.com/Rifuroo">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer" />
 </p>
