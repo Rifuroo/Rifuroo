@@ -1,96 +1,50 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Rifuroo&fontSize=90&animation=fadeIn&fontAlignY=35" />
-</p>
+# Hi, I'm Rifuroo 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Anime/anime-reading.gif" width="600" />
-</p>
-
-# 🎮 Character Profile: Rifuroo
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rifuroo&label=Lvl%20XP&color=FE05FD&style=flat-square" alt="Rifuroo" />
-</p>
-
-### 🎭 Class: Full-Stack & Mobile Alchemist
-> *“Building digital worlds, one line of code at a time.”*
-
----
-
-## 📊 Character Stats
-| Attribute | Value | Level |
-| :--- | :--- | :--- |
-| **HP (Health Points)** | 🟢🟢🟢🟢🟢🟢🟢⚪⚪⚪ | **Strong** |
-| **MP (Magic/Code Points)** | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ | **Advanced** |
-| **STR (Mobile Power)** | 🟠🟠🟠🟠🟠🟠🟠🟠🟠⚪ | **Expert** |
-| **INT (Logic Points)** | 🟣🟣🟣🟣🟣🟣🟣🟣⚪⚪ | **High** |
-
----
-
-## 🎒 Inventory (Tech Stack)
-
-### 🗡️ Primary Weapons (Languages)
 <p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,php,laravel,js,ts" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Mobile+Developer;Full-stack+Explorer;Flutter+%26+Laravel+Enthusiast" alt="Typing SVG" />
 </p>
 
-### 🛡️ Defensive Gear (Tools & DB)
+### 🛠️ About Me
+I'm a development enthusiast focused on building high-performance mobile and web applications. My goal is to create seamless user experiences with clean, maintainable code.
+
+- � **Mobile**: Specialist in **Flutter & Dart**.
+- 🌐 **Web**: Experienced with **PHP & Laravel**.
+- � **Passion**: Software architecture, performance optimization, and clean UI/UX.
+
+---
+
+### � Skills
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,postman,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,php,laravel,mysql,git,vscode,androidstudio" />
 </p>
 
 ---
 
-## 🗺️ Current Quests (Featured Projects)
+### 🌟 Featured Repositories
 
-<details open>
-<summary><b>🔥 Main Quest: Mobile Dominance</b></summary>
-<br>
-
-- 📽️ **[sakinime](https://github.com/Rifuroo/sakinime)** - *Rank: S* | Building the ultimate anime steaming experience with Dart.
-- 💬 **[chattr](https://github.com/Rifuroo/chattr)** - *Rank: A* | Real-time communication portal for modern adventurers.
-</details>
-
-<details>
-<summary><b>🛡️ Side Quest: Web Architect</b></summary>
-<br>
-
-- 📦 **[lelang_laravel](https://github.com/Rifuroo/lelang_laravel)** - *Rank: B* | Auction management system forged in Laravel.
-- 🎓 **[manajemen-siswa](https://github.com/Rifuroo/manajemen-siswa)** - *Rank: B* | Organizing the academy's records efficiently.
-</details>
+- **[sakinime](https://github.com/Rifuroo/sakinime)** | A high-performance anime streaming application built with Flutter/Dart.
+- **[chattr](https://github.com/Rifuroo/chattr)** | Modern, real-time chat interface focusing on fluid UX.
+- **[lelang_laravel](https://github.com/Rifuroo/lelang_laravel)** | Comprehensive auction system using Laravel framework.
 
 ---
 
-## 📜 Quest Logs (GitHub Stats)
+### � GitHub Insights
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rifuroo&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="Rifuroo's Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifuroo&layout=compact&theme=tokyonight&hide=html&border_radius=10" alt="Top Langs" />
-  </a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rifuroo&show_icons=true&theme=transparent&title_color=2196F3&text_color=ffffff&icon_color=2196F3&border_color=2196F3&count_private=true" alt="Rifuroo's Stats" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rifuroo&theme=tokyonight&border_radius=10" alt="Streak" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifuroo&layout=compact&theme=transparent&title_color=2196F3&text_color=ffffff&border_color=2196F3&hide=html" alt="Top Langs" />
 </p>
 
 ---
 
-## 📫 Owl Post (Connect)
-<p align="center">
-  <a href="https://github.com/Rifuroo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+### 📫 Let's Connect
+- **GitHub**: [Rifuroo](https://github.com/Rifuroo)
+- **Work with me**: *Open for collaborations in Mobile & Web Development.*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2196F3&height=2&section=footer" />
 </p>
