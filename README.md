@@ -12,7 +12,7 @@
 A passionate **Mobile & Full-stack Developer** dedicated to building high-performance applications with elegant code architecture. Currently focused on mastering the synergy between **AI Automation** and traditional development workflows.
 
 - 🛠️ Building **Scalable Apps** with Flutter & Laravel.
-- 🚀 Exploring **AI-driven development** (Creator of [Pact AI](https://github.com/Rifuroo/pact)).
+- 🚀 Exploring **AI-driven development** (Creator of [Ryte AI](https://github.com/Rifuroo/ryte)).
 - 🎨 Design-driven development with focus on **User Experience**.
 - 🐛 *Clean code is not an option, it's a lifestyle.*
 
