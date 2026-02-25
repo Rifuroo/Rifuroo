@@ -20,8 +20,8 @@ A passionate **Mobile & Full-stack Developer** dedicated to building high-perfor
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,php,laravel,mysql,git,vscode,bash,nodejs,docker,postman&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,kotlin,php,laravel,nextjs,react,mysql,postgres,supabase,firebase,git,vscode,bash,nodejs,docker,postman,npm&theme=light" />
 </p>
 
 **Core Competencies:**
